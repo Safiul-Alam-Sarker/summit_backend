@@ -2,7 +2,8 @@
 
 This project is a text summarization API built using Express.js and integrates multiple text extraction methods for documents (PDF, DOCX, TXT). It uses the Hugging Face `distilbart-cnn-12-6` model for summarization and Azure's Text Analysis API for text processing.
 
-![Text Summarizer]([https://github.com/Safiul-Alam-Sarker/summit_backend/blob/main/project-2.png])
+![Text Summarizer](https://github.com/Safiul-Alam-Sarker/summit_backend/blob/main/project-2.png)
+
 
 ## Features
 
